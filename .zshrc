@@ -10,3 +10,7 @@ alias a="php artisan"
 
 # github cli
 alias grv="gh repo view --web"
+
+# 1password (WSL Only)
+#alias ssh='ssh.exe'
+#alias ssh-add='ssh-add.exe'
