@@ -8,6 +8,9 @@ source $ZSH/oh-my-zsh.sh
 # laravel
 alias a="php artisan"
 
+# symfony
+alias sf="symfony console"
+
 # github cli
 alias grv="gh repo view --web"
 
