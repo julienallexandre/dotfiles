@@ -3,4 +3,4 @@
 plugins=(git zsh-autosuggestions)
 
 # Symfony CLI
-alias sfc=symfony console
+alias sfc="symfony console"
