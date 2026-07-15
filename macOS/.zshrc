@@ -4,3 +4,6 @@ plugins=(git zsh-autosuggestions)
 
 # Symfony CLI
 alias sfc="symfony console"
+
+# Laravel CLI
+alias a="php artisan"
