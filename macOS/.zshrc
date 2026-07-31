@@ -7,3 +7,6 @@ alias sfc="symfony console"
 
 # Laravel CLI
 alias a="php artisan"
+
+# Starship
+eval "$(starship init zsh)"
