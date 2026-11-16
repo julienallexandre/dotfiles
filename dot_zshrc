@@ -26,3 +26,6 @@ alias sfc="symfony console"
 if command -v starship >/dev/null 2>&1; then
     eval "$(starship init zsh)"
 fi
+
+# Eza
+alias eza='eza --icons=auto --long --all --header --total-size'
