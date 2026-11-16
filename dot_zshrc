@@ -29,3 +29,5 @@ fi
 
 # Eza
 alias eza='eza --icons=auto --long --all --header --total-size'
+
+[[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
