@@ -24,6 +24,7 @@ The goal is to maintain a clean, reproducible, and easy-to-manage setup across *
 ### Development
 
 - [Laravel](https://laravel.com/) — PHP framework
+- [Lerd](https://lerd.sh/) — Local PHP development environment
 - [Symfony CLI](https://symfony.com/download) — Symfony development tools
 
 ### Security
