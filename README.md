@@ -35,7 +35,11 @@ The goal is to maintain a clean, reproducible, and easy-to-manage setup across *
 
 ```text
 .
+├── .gitignore
 ├── dot_zshrc
+├── private_dot_config/
+│   └── eza/
+│       └── theme.yml
 ├── private_Library/
 │   └── private_Application Support/
 │       └── com.mitchellh.ghostty/
