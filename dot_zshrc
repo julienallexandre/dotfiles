@@ -30,4 +30,12 @@ fi
 # Eza
 alias eza='eza --icons=auto --long --all --header --total-size'
 
+# Lerd
+export PATH="/Users/julien/.local/share/lerd/bin:$PATH"
+fpath=(/Users/julien/.local/share/zsh/site-functions $fpath)
+autoload -Uz compinit && compinit
+
+# Ensure PATH entries are unique
+typeset -U path PATH
+
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
